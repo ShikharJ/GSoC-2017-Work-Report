@@ -42,7 +42,7 @@ Work on this project is far from over. `SymPy` codebase is huge, and given the n
 
 ## Conclusion
 
-I have no words to describe how grateful I am to my mentors - [Isuru Fernando](https://github.com/isuruf) and [Sumith Kulal](https://github.com/Sumith1896) - for all their support and for being extremely responsive and helpful with every one of my problems. Without their vote of confidence, this project would've been a lot harder and a lot less fun to do.
+I have no words to describe how grateful I am to my mentors - [Isuru](https://github.com/isuruf) and [Sumith](https://github.com/Sumith1896) - for all their support and for being extremely responsive and helpful with every one of my problems. Without their vote of confidence, this project would've been a lot harder and a lot less fun to do.
 
 I would be lucky to get to work with them further as I continue work on this project till the time `SymEngine` becomes the default core of the `SymPy` library.
 
