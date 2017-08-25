@@ -19,6 +19,19 @@ On the other hand, this will also lead to the development of a number of feature
 
 ## Results
 
+### Links To Commits
+
+[SymEngine](https://github.com/symengine/symengine/commits?author=shikharj)
+
+
+[SymEngine.py](https://github.com/symengine/symengine.py/commits?author=shikharj)
+
+<p align="left">
+  <img width="459" height="198" src="https://github.com/ShikharJ/GSoC-2017-Work-Report/blob/master/src/SymEnginepy.jpg">
+</p>
+
+[SymPy](https://github.com/sympy/sympy/commits?author=shikharj)
+
 
 ## Scope and Future Work
 
