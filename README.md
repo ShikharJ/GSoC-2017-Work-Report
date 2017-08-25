@@ -46,4 +46,4 @@ I have no words to describe how grateful I am to my mentors - [Isuru](https://gi
 
 I would be lucky to get to work with them further as I continue work on this project till the time `SymEngine` becomes the default core of the `SymPy` library.
 
-I am also thankful to `SymPy` and `Google` for the opprtunity to work on this project, which helped me learn a lot in such a short period of time.
+I am also thankful to `SymPy` and `Google` for the opportunity to work on this project, which helped me learn a lot in such a short period of time.
