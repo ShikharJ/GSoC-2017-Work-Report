@@ -23,6 +23,9 @@ On the other hand, this will also lead to the development of a number of feature
 
 [SymEngine](https://github.com/symengine/symengine/commits?author=shikharj)
 
+<p align="left">
+  <img width="458" height="193" src="https://github.com/ShikharJ/GSoC-2017-Work-Report/blob/master/src/SymEngine.jpg">
+</p>
 
 [SymEngine.py](https://github.com/symengine/symengine.py/commits?author=shikharj)
 
