@@ -19,6 +19,18 @@ On the other hand, this will also lead to the development of a number of feature
 
 ## Results
 
+Considering that we had to deviate a lot from my original proposal plan, and also incorporate additional tasks and roadblocks due to inconsistency issues, I'd say that, overall, the basic idea of my project was achieved.
+
+My first task under the official GSoC period was to implement some additional functionalities for `DenseMatrix` in `SymEngine` and introducing `MutableDenseMatrix`, `ImmutableDenseMatrix` and `Float` classes in `SymEngine.py`, all of which occurred during the first half of the Community Bonding Period.
+
+During the second half of the Community Bonding, my focus shifted to implementing `Relationals` in `SymEngine` and making structural changes to `SymEngine.py`, along with wrapping `Min` and `Max` functions.
+
+After this, the time till the first evaluations was utilised for a number of goals. Classes `Dummy`, `Floor`, `Sign`, `Ceiling` and `Conjugate` were implemented in `SymEngine` and the Parser support was improved, along with wrapping `Infinity`, `NaN` and `Relational` classes  and subclasses in `SymEngine.py` along with a huge portion of `Function` classes. During this time, I was asked by Isuru if we could work on porting `SymEngine` to `PyDy`, for which a number of additional tasks were made and completed.
+
+The progress between the first and the second evaluations was albeit much slower. I started off by wrapping the `Logic` classes from `SymEngine`, along with improving some portions of our `C` wrappers. After this task, my focus was shifted to initiate the implementation of the `Singleton` pattern in `SymEngine.py`, which took quite a bit of time. I also spent a huge amount of time figuring out and keeping a hand-written log of the various `Assertion Failures`, `Wrong Outputs` and `Exceptions` incurred along the way of using `SymEngine` as a backend in `SymPy`. It was my first experience at realising the importance of software testing. During this time, we were succesfully able to port `SymEngine` under `LieAlgebras` module completely.
+
+The time before the last evaluations was also a bit slow, partly due to the fact that my college had resumed after the summer vacations with a rather hectic schedule, and also because Isuru and Sumith were both busy for a week, and I couldn't make much headway during that time. Anyways, I was able to get a number of miscellaneous functionalities from `SymPy` ported over to `SymEngine.py`. I also worked on introducing `SymPy` style attributes (`is_commutative`, `is_integer`...). Finally, I pushed in a couple of PRs for updating `SymEngine` and `SymEngine.py`'s dev binaries in `Conda`, which allowed me to use all the functionalities I had implemented till the moment, in `SymPy`. The work is pushed in separate pull requests, and should be merged soon.
+
 ### Links To Commits
 
 [SymEngine](https://github.com/symengine/symengine/commits?author=shikharj)
@@ -34,6 +46,10 @@ On the other hand, this will also lead to the development of a number of feature
 </p>
 
 [SymPy](https://github.com/sympy/sympy/commits?author=shikharj)
+
+## Pending Pull Requests
+
+
 
 
 ## Scope and Future Work
