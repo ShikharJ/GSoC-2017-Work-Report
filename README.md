@@ -49,7 +49,9 @@ The time before the last evaluations was also a bit slow, partly due to the fact
 
 ## Pending Pull Requests
 
+Since it was only much later that I was able to make use of the functionalities that I had worked on over the summer, my final work got a bit delayed. Thankfully, Isuru allowed me to work on this even after the GSoC period ends. The PRs mentioned here are mostly complete, requiring just some minor tweaks.
 
+[SymPy](https://github.com/sympy/sympy/pulls/ShikharJ)
 
 
 ## Scope and Future Work
